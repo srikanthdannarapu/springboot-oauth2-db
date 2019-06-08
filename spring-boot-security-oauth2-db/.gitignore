@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+target
+src/test/
+spring-boot-security-oauth2-example.iml
